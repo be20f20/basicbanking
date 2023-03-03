@@ -3,6 +3,8 @@
  ###  IDE - Android studio
    
  ###  Language - Java
+ 
+ ###  Database - SQLite
    
 ## Basic banking application task:
 
