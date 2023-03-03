@@ -1,8 +1,8 @@
 # BASIC BANKING APPLICATION-SPARKS FOUNDATION INTERNSHIP(MOBILE APPLICATION DEVELOPMENT - GRIP March 2023 Batch)
 
-   IDE - Android studio
+ ###  IDE - Android studio
    
-   Language - Java
+ ###  Language - Java
    
 ## Basic banking application task:
 
