@@ -18,13 +18,7 @@ allprojects {
         jcenter()
     }
 }
-android {
-buildTypes {
-    release {
-        crunchPngs false // or true
-    }
-  }
-}
+
 
 task clean(type: Delete) {
     delete rootProject.buildDir
